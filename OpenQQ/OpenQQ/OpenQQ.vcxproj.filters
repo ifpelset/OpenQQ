@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\OpenQQ.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\OpenQQ.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\OpenQQ.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\QQ.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD_101.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD5.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD6.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\CloseBtn.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\MinBtn.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\WndShake.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\file.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\RegBk.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD_SMALL.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\about.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD0.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD2.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD3.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD4.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD5.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\HEAD6.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\..\..\..\Open qq Beta 1\OpenQQ\OpenQQ\res\HEAD.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bk4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OpenQQ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenQQDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RegDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CgHeadDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FriDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SendMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SubWindowPar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WhiWnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OpenQQ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenQQDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RegDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CgHeadDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FriDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenQQ.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
