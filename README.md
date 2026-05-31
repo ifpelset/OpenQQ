@@ -1,4 +1,5 @@
 # OpenQQ
+MFC-based QQ-like LAN Chat Software
 基于MFC的仿QQ局域网聊天软件
 
 # Screenshot
